@@ -35,3 +35,13 @@ git add.
 git add .
 git commit -m "Added Website"
 git push origin master
+ls
+git remote add origin https://github.com/Aldair0827/TestGit.git
+git add .
+git commit -m "Added Website"
+git push origin master
+ls
+cd website
+sudo nano index.html
+ls
+cd ..
